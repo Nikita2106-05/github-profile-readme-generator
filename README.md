@@ -197,5 +197,5 @@ For commercial use of this project, please verify font licensing requirements.
 
 <hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ in India 🇮🇳. 
 </p>
